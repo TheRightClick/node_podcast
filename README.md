@@ -24,6 +24,7 @@ THIRDSECRET
 
 4) Obtain API Key and Secret from the Podcasting 2.0 organization to define the new variables. 
 
+5) Add MONGODB_URI variable. 
 
 FUNCTIONS:
 
